@@ -5,5 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-cabalunaharoldedsel@immaculada.edu.ph-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabalunaharoldedsel@immaculada.edu.ph)](mailto:cabalunaharoldedsel@immaculada.edu.ph)
 
 <p align="center">
+  <img src="https://github.com/GhostPoltergeist/Board-of-Trade-/blob/main/globe.png" width="356"/>
+</a></p>
+
+<p align="center">
   <img src="https://github.com/GhostPoltergeist/Board-of-Trade-/blob/main/ascii.png" width="356"/>
 </a></p>
