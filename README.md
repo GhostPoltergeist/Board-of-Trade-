@@ -9,7 +9,10 @@
 </a></p>
 
 ```
-A database is a logically organized collection of structured data kept electronically in a computer system. A database management system is usually in charge of a database. Databases are collections of organized data that can be accessed, maintained, and updated with ease. Because they communicate information about your sales transactions, product inventory, customer profiles, and marketing efforts, database systems are critical to your business.
+A database is a logically organized collection of structured data
+kept electronically in a computer system. A database management system is usually in charge of a database. Databases are 
+collections of organized data that can be accessed, maintained, and updated with ease. Because they communicate information about your sales transactions,
+product inventory, customer profiles, and marketing efforts, database systems are critical to your business.
 ```
 
 Structure is a user-defined data structure in the C programming language that allows us to aggregate data of various sorts. Structure aids in the creation of a more meaningful complicated data type. It's comparable to an Array, however an array only retains data of the same type.
