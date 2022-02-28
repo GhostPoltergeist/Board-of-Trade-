@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1644376835 source:c:\users\~zxz~\desktop\kiosk about\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1644384261 source:c:\users\~zxz~\desktop\stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+
+1646055839 source:c:\users\~zxz~\desktop\github\stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
