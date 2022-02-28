@@ -10,8 +10,9 @@
 
 ```
 A database is a logically organized collection of structured data
-kept electronically in a computer system. A database management system is usually in charge of a database. Databases are 
-collections of organized data that can be accessed, maintained, and updated with ease. Because they communicate information about your sales transactions,
+kept electronically in a computer system. A database management system is usually in charge of a database. 
+Databases are collections of organized data that can be accessed, maintained, and updated with ease. 
+Because they communicate information about your sales transactions,
 product inventory, customer profiles, and marketing efforts, database systems are critical to your business.
 ```
 
